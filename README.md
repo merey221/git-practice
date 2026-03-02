@@ -1,7 +1,7 @@
 # git-practice
 Merey221
 echo "# git-practice-" >> README.md 
-git init 
+git init merey221
 git add README.md 
 git commit -m "first commit" 
 git branch -M main 
